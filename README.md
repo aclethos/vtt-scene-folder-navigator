@@ -1,1 +1,1 @@
-# vtt-scene-folder-navigator
+# VTT Scene Folder Navigator
