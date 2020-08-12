@@ -1,0 +1,16 @@
+{
+    "name": "scene-folder-navigator",
+    "title": "Scene Folder Navigator",
+    "description": "Naviagte Scenes through their folder in the Navigator Bar",
+    "author": "Aclethos",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.6.5",
+    "compatibleCoreVersion": "0.6.5",
+    "esmodules": [
+        "./scene-folder-navigator.js"
+    ],
+    "styles": ["./styles.css"],
+    "url": "https://github.com/aclethos/vtt-scene-folder-navigator",
+    "manifest": ""
+    "download": ""
+}
