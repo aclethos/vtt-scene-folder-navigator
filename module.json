@@ -11,6 +11,6 @@
     ],
     "styles": ["./styles.css"],
     "url": "https://github.com/aclethos/vtt-scene-folder-navigator",
-    "manifest": ""
+    "manifest": "https://raw.githubusercontent.com/aclethos/vtt-scene-folder-navigator/master/module.json"
     "download": ""
 }
